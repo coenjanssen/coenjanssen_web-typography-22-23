@@ -36,12 +36,12 @@ Het Brenner font biedt meer mogelijkheden gezien dit een erg uitgebreide font-fa
 `Stem 1 (voice 1)`<br>
 Deze eerste stem is de 'robot' achtige stem die interacteerd met het hoofdpersonage. Gezien deze vragen stelt, heeft deze een gele kleur de monospace variant uit het Brenner font. Dit past enorm goed, gezien dit helemaal de look&feel heeft van een systeem, device of robot. Daar denkt iedereen toch aan bij een Monospace font?
 
-<img src="closed-captions/img/voice-1.png">
+<img src="closed-captions/img/voice-2.png">
 
 `Stem 2 (voice 2)`<br>
 Het hoofdpersonage heeft een wat saaie, vooral lage, mannelijke stem. Deze voelt wel wat krachtig aan waardoor deze een font-weigth van 500 heeft. Hierdoor is die redelijk 'normaal' maar heeft die net die ene extra touch. Daarom heb ik hier de Sans variant van het Brenner font voor hem gekozen. Goed leesbaar en passend.
 
-<img src="closed-captions/img/voice-2.png">
+<img src="closed-captions/img/voice-1.png">
 
 `Stem 3 (voice 3)`<br>
 Dan valt er toch iets op, in de 'wandelgang' binnen de scene roept er ineens iemand 'fuck off, skinjob!'. Gezien dit zo los staat van de overige teksten van de ondertiteling moest ik hier een vet effect op loslaten. Waar het font verder gewoon de Sans bevat heb ik hier juist wat toffe CSS element op losgelaten. 
